@@ -1,0 +1,7 @@
+printf
+scanf
+printf
+scanf
+printf
+
+
